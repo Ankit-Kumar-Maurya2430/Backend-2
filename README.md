@@ -51,21 +51,21 @@ npm i -D prettier
 <p>In prettierrc ,
 
  {
-    "singleQuote": false,
-    "bracketSpacing": true,
-    "tabWidth": 2,
-    "trailingComma": "es5",
-    "semi": true
+    "singleQuote": false,<br>
+    "bracketSpacing": true,<br>
+    "tabWidth": 2,<br>
+    "trailingComma": "es5",<br>
+    "semi": true<br>
 }</p>
 
 
 <p>create a .prettierignore file</p>
-<p>In prettierignore ,<b>
-/.vscode
-/node_modules
-./dist
+<p>In prettierignore ,<br>
+/.vscode<br>
+/node_modules<br>
+./dist<br>
 
-*.env
-.env
+*.env<br>
+.env<br>
 .env.*
 </p>
