@@ -70,10 +70,12 @@ npm i -D prettier
 .env.*
 </p>
 
-<h1>Database Connection </h1>
+
+<h1>7 Database Connection </h1>
 
 <p>DB connection by MongoDB</p>
 
+<h1>8 Custom API response and error Handling</h1>
 <p>asyncHandler in utils add features</p>
-<p>ApiError in utils add features</p>
+<h1>ApiError in utils add features</h1>
 <p>ApiResponse in utils add features</p>
